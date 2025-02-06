@@ -1,0 +1,11 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2024 23:36:08] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2024 23:36:08] "GET /uploads/wireframe.jpeg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2024 23:36:08] "GET /uploads/ui.jpeg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2024 23:37:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2024 23:37:36] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2024 23:37:36] "GET /uploads/ui.jpeg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2024 23:37:36] "GET /uploads/wireframe.jpeg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2024 23:37:47] "GET / HTTP/1.1" 200 -
